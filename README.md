@@ -17,11 +17,14 @@ docker start mongodb
 ```
 ### 启动前端服务
 进入index.html目录
+
 #### 方案1：
-
-使用Node.js原生HTTP模块：（需要安装npx）
-`npx http-server -p 8080`
-
-####方案2：
-Python内置HTTP服务：
-`python3 -m http.server 8000`
+```bash
+#使用Node.js原生HTTP模块：（需要安装npx）
+npx http-server -p 8080
+```
+#### 方案2：
+```bash
+#Python内置HTTP服务：
+python3 -m http.server 8000
+```
