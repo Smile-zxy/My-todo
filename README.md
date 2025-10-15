@@ -24,8 +24,10 @@ docker start mongodb
 #使用Node.js原生HTTP模块：（需要安装npx）
 npx http-server -p 8080
 ```
+通过 _localhost:8080_ 访问
 #### 方案2：
 ```bash
 #Python内置HTTP服务：
 python3 -m http.server 8000
 ```
+通过 _localhost:8000_ 访问
