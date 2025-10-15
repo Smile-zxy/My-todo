@@ -1,4 +1,4 @@
-# My-todo <div align="center"><img src="images/todo_logo.svg"></div>
+# My-todo <div align="center"><img src="images/todo_logo.svg" width=200px></div>
 
 个人待办事项清单，一个全栈学习项目，主要功能是通过清单记录和处理个人事项。    
 全栈学习小白，内容包含简单的前端和后端知识    
